@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ygo to wildwolf", "ygo to wildwolf.csproj", "{76F62372-FF2E-4B31-8E20-67D842335E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76F62372-FF2E-4B31-8E20-67D842335E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F62372-FF2E-4B31-8E20-67D842335E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F62372-FF2E-4B31-8E20-67D842335E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F62372-FF2E-4B31-8E20-67D842335E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA47F3DD-42AD-4884-8F2E-A833EDF73906}
+	EndGlobalSection
+EndGlobal
